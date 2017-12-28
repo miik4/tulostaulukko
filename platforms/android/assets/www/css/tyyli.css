@@ -1,0 +1,10 @@
+.scroll-content{
+ background: url("../kuvat/jukurittausta13372.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-shadow: 1px 1px #ffffff;
+  font-size: 28px;
+  color: #1a1a1a;
+}
